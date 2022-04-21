@@ -81,3 +81,12 @@ img {
      a{
          text-decoration: none;
      }
+
+     #contact{
+         background:lightgray;
+     }
+
+     .contact_1 h3
+     {
+         display: inline;
+     }
